@@ -11,7 +11,7 @@ I am a second year computer science student at NUST University, passionate about
 Check out my [coding portfolio!](https://erikc-portfolio.vercel.app/)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajawad06/)
 
 # 💻 Tech Stack:
 Languages: 
