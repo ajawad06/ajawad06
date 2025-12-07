@@ -3,7 +3,7 @@
 ## 💫 About Me:
 I am a second year computer science student at NUST University, passionate about exploring the realms of coding, machine learning, and building robust applications.
 
-## 🚀 What I'm Up To
+## 🚀 What I'm Up To:
 
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Learning & Building MERN applications
