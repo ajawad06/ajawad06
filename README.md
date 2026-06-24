@@ -30,17 +30,20 @@ I am a second year computer science student at NUST University, passionate about
 </p>
 
 
+<p><strong>Frontend</strong></p>
 <p>
-  <strong>Libraries/Frameworks:</strong>
-  <img src="https://skillicons.dev/icons?i=react" height="20"/> React &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> Node.js &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="20"/> Express &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="20"/> Flask &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="20"/> FastAPI &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" height="20"/> MongoDB &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="20"/> PostgreSQL
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
+<p><strong>Backend</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
+
+<p><strong>Database</strong></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajawad06/)
