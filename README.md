@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Abdullah Jawad</h1>
 
 ## 💫 About Me:
-I am a second year computer science student at NUST University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a second year computer science undergrad at NUST, passionate about exploring the realms of AI, machine learning, and building robust applications.
 
 ## 🚀 What I'm Up To:
 
@@ -10,21 +10,21 @@ I am a second year computer science student at NUST University, passionate about
 
 ## 💻 Tech Stack:
 <p>
-  <strong style="font-size: 28px;">Languages:</strong>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,html,css,cpp,java" height="35"/>
+  <strong >Languages:</strong>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,html,css,cpp,java" height="30"/>
 </p>
 
 <p>
-  <strong style="font-size: 28px;">Libraries/Frameworks:</strong>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb,postgres" height="35"/>
+  <strong >Libraries/Frameworks:</strong>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb,postgres" height="30"/>
 </p>
 
 <p>
-  <strong style="font-size: 28px;">Developer Tools:</strong>
+  <strong >Developer Tools:</strong>
 
-  <img src="https://skillicons.dev/icons?i=git,postman" height="35" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="35"/>
-  <img src="https://cdn.simpleicons.org/anthropic" height="35"/>
+  <img src="https://skillicons.dev/icons?i=git,postman" height="30" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="30"/>
+  <img src="https://cdn.simpleicons.org/anthropic" height="30"/>
 </p>
 
 ## 🌐 Connect with me:
