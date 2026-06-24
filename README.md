@@ -10,17 +10,17 @@ I am a second year computer science student at NUST University, passionate about
 
 ## 💻 Tech Stack:
 <p>
-  <strong>Languages:</strong>
+  <strong style="font-size: 28px;">Languages:</strong>
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,html,css,cpp,java" height="35"/>
 </p>
 
 <p>
-  <strong>Libraries/Frameworks:</strong>
+  <strong style="font-size: 28px;">Libraries/Frameworks:</strong>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb,postgres" height="35"/>
 </p>
 
 <p>
-  <strong>Developer Tools:</strong>
+  <strong style="font-size: 28px;">Developer Tools:</strong>
 
   <img src="https://skillicons.dev/icons?i=git,postman" height="35" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="35"/>
