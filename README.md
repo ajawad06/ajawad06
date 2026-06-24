@@ -8,29 +8,38 @@ I am a second year computer science student at NUST University, passionate about
 - 🤖 Exploring AI/ML systems
 - 💻 Learning & Building MERN applications
 
-Check out my [coding portfolio!] (in process)
-
 ## 💻 Tech Stack:
-Languages: 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+  <strong>Languages:</strong>
+  <img src="https://skillicons.dev/icons?i=python" height="20"/> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="20"/> JavaScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=typescript" height="20"/> TypeScript &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="20"/> SQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="20"/> HTML &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="20"/> CSS &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="20"/> C++ &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="20"/> Java
+</p>
+ 
+<p>
+  <strong>Developer Tools:</strong>
+  <img src="https://skillicons.dev/icons?i=git" height="20"/> Git &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" height="20"/> Postman &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=claude" height="20"/> Claude &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=n8n" height="20"/> n8n
+</p>
 
 
-Developer Tools: 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-Libraries/Frameworks: 
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <strong>Libraries/Frameworks:</strong>
+  <img src="https://skillicons.dev/icons?i=react" height="20"/> React &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> Node.js &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="20"/> Express &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" height="20"/> Flask &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" height="20"/> FastAPI &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="20"/> MongoDB &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="20"/> PostgreSQL
+</p>
 
 
 ## 🌐 Connect with me:
