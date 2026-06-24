@@ -10,19 +10,19 @@ I am a second year computer science student at NUST University, passionate about
 
 ## 💻 Tech Stack:
 <p>
-  <strong>Languages:</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,html,css,cpp,java" />
+  <strong>Languages:</strong>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,mysql,html,css,cpp,java" height="20"/>
 </p>
 
 <p>
-  <strong>Libraries/Frameworks:</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb,postgres" width="400"/>
+  <strong>Libraries/Frameworks:</strong>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,mongodb,postgres" height="20"/>
 </p>
 
 <p>
-  <strong>Developer Tools:</strong><br><br>
+  <strong>Developer Tools:</strong>
 
-  <img src="https://skillicons.dev/icons?i=git,postman" />
+  <img src="https://skillicons.dev/icons?i=git,postman" height="20" />
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="20"/>
   <img src="https://cdn.simpleicons.org/anthropic" height="20"/>
 </p>
